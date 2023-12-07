@@ -1,0 +1,115 @@
+###########################################################################
+> Qual a diferença entre only e just?
+
+Quando o Just vem antes do verbo, vai ter o sentido de “acabei de” ou “acabou de”, por exemplo: The train just left (o trem acabou de sair). 
+Lembre-se que para esse sentido, Only não se aplica. E por fim, quando o Just vem depois do verbo, significa “somente”, que é exatamente igual ao Only.
+
+###########################################################################
+
+-> Uso do TO 
+A frase a seguir tem algum erro?
+When it's hot I like to go to the beach and when it's cold I like to stay at home and to order food.
+ChatGPT
+Sua frase está quase correta, mas há um erro de gramática na segunda parte da frase. A forma correta seria:
+
+"When it's hot, I like to go to the beach, and when it's cold, I like to stay at home and order food."
+
+Observe que a palavra "to" foi removida antes de "order food". Em inglês, não é necessário usar "to" antes de um segundo verbo quando os verbos estão
+ligados por uma conjunção como "and". Portanto, a forma correta é "stay at home and order food", em vez de "stay at home and to order food".
+
+###########################################################################
+
+-> Uso do CAN 
+Oq significa a frase I can drive?
+ChatGPT
+A frase "I can drive" em inglês significa "Eu posso dirigir" em português. Nesta frase, "can" é usado para indicar habilidade ou capacidade, e "drive" significa "dirigir". Portanto, a frase completa significa que a pessoa tem a capacidade de operar um veículo e dirigir.
+
+Poderia ser I know drive?
+ChatGPT
+A frase "I know drive" não é gramaticalmente correta em inglês. A forma correta para expressar que você sabe dirigir seria "I know how to drive" ou "I know how to drive a car". Nesse caso, "know how to" é usado para indicar que você tem o conhecimento ou a habilidade de dirigir. Portanto, a frase correta seria:
+
+"I know how to drive" - que significa "Eu sei dirigir" ou "Eu sei como dirigir".
+
+###########################################################################
+
+-> Qual a diferença entre they e them?
+
+ChatGPT
+"They" e "them" são pronomes pessoais em inglês que são usados para se referir a pessoas, objetos, animais ou coisas de forma indireta 
+ou em terceira pessoa. No entanto, eles têm usos ligeiramente diferentes:
+They (sujeito):
+"They" é usado como pronome pessoal no caso do sujeito. Ele se refere a mais de uma pessoa, animal, objeto ou coisa.
+Exemplos:
+
+They are my friends. (Eles são meus amigos.)
+They are going to the park. (Eles estão indo ao parque.)
+They like pizza. (Eles gostam de pizza.)
+Them (objeto):
+
+"Them" é usado como pronome pessoal no caso do objeto direto ou objeto indireto. Ele se refere a mais de uma pessoa, animal, objeto ou coisa que 
+está recebendo a ação do verbo ou está relacionada de alguma forma com o verbo.
+Exemplos:
+
+I gave them a gift. (Eu dei a eles um presente.) - "them" é o objeto indireto que recebe o presente.
+She saw them at the store. (Ela os viu na loja.) - "them" é o objeto direto que recebe a ação do verbo "saw."
+Em resumo, a diferença principal entre "they" e "them" está no papel que desempenham na frase. "They" é usado como sujeito, enquanto "them" é usado como
+objeto direto ou objeto indireto. Ambos são pronomes pessoais que se referem a mais de uma pessoa, animal, objeto ou coisa.
+
+###########################################################################
+
+1. O que significa going em ingles?
+ChatGPT
+"Going" é uma forma do verbo "to go" no gerúndio. O verbo "to go" significa "ir" em português, e o gerúndio "going" é usado para indicar uma ação 
+contínua ou em andamento. Por exemplo, em uma frase como "I am going to the store" (Estou indo para a loja), "going" indica que a ação de ir
+está ocorrendo no momento presente.
+
+2. Como é o verbo to go no futuro?
+ChatGPT
+O verbo "to go" no futuro é conjugado como "will go" para a maioria das situações. Aqui estão algumas formas do verbo "to go" no futuro:
+
+I will go (Eu irei)
+You will go (Você irá)
+He/She/It will go (Ele/Ela irá)
+We will go (Nós iremos)
+They will go (Eles/Elas irão)
+Por exemplo, você pode dizer "I will go to the store tomorrow" (Eu irei para a loja amanhã) para indicar uma ação futura usando "will go." Note que em 
+algumas situações, especialmente em inglês informal, as pessoas também usam a forma abreviada "I'll" em vez de "I will" para expressar o futuro. Portanto, 
+você poderia dizer "I'll go to the store tomorrow" com o mesmo significado.
+
+3. Going tambem pode ser usado para o futuro?
+ChatGPT
+Sim, o presente contínuo (gerúndio) pode ser usado para expressar o futuro em algumas situações, principalmente quando se tem um plano ou uma 
+intenção definida. Isso é comum em inglês coloquial. Por exemplo:
+
+I'm going to the store later. (Eu vou para a loja mais tarde.)
+Nesse caso, "I'm going" é usado para indicar um plano ou intenção futura de ir à loja. No entanto, é mais comum usar a forma "going to" para 
+expressar o futuro em planos e intenções.
+
+I'm going to start my new job next week. (Eu vou começar meu novo emprego na próxima semana.)
+Novamente, "I'm going to" é usado para indicar uma ação futura planejada.
+
+Portanto, tanto "will go" quanto "going to" podem ser usados para expressar o futuro em inglês, mas "going to" é geralmente usado quando você
+tem um plano ou intenção específica em mente.
+
+##############################################
+
+-> Quando usar for e quando usar to?
+ChatGPT
+A escolha entre "for" e "to" em inglês pode ser um tanto complexa, pois depende do contexto e da função de cada uma dessas preposições. 
+Aqui estão algumas orientações gerais:
+
+"To":
+"To" é frequentemente usado para indicar direção, movimento ou destino. Por exemplo: "I'm going to the store" (Estou indo para a loja).
+É usado para expressar um infinitivo completo de um verbo (a forma base do verbo). Por exemplo: "I want to learn" (Eu quero aprender).
+Também é usado em expressões de tempo, como "ten to five" (dez para as cinco).
+
+"For":
+"For" é usado para indicar benefício, finalidade ou duração. Por exemplo: "This gift is for you" (Este presente é para você).
+É usado para expressar uma ação que está sendo realizada em nome de alguém ou algo. Por exemplo: "I'm doing this for my family" (Estou fazendo isso pela minha família).
+É usado para indicar um período de tempo. Por exemplo: "I'll be on vacation for two weeks" (Estarei de férias por duas semanas).
+Lembre-se de que essas são diretrizes gerais, e há exceções e nuances na língua inglesa. O contexto da frase desempenha um papel importante na escolha de "for" ou "to," e a prática e a exposição contínuas ao inglês o ajudarão a desenvolver um melhor senso para quando usar cada preposição.
+
+
+ 
+
+
