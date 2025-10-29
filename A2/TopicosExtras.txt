@@ -47,6 +47,18 @@ exemplos para ilustrar isso:
 "Do you have any plans for the weekend?"
 (Você tem algum plano para o final de semana?)
 
+O Any pode ser traduzido de diferentes formas dependendo do contexto. AS traduções mais comuns são:
+
+-> Any(qualquer): Usando quando não há preferencia ou restrição. Refere-se a um membro de um grupo, qualquer que seja o grupo.
+Example: You can choose any book -> Você pode escolher qualquer livro.
+
+-> Any(algum/alguma): Usado em frases interrogativas ou negativas, indicando uma quantidade indefinida.
+Example: Do you have any questions? -> Você tem alguma pergunta? 
+Example2: I don't have any money. -> Eu não tenho nenhum dinheiro ou dinheiro algum.
+
+Any(nenhum/nenhuma): Em frases negativas pode ser traduzido como nenhum(a) para enfatizar a ausência de algo.
+Example: There aren't any tickets left -> Não há nenhum ingresso restante.
+
 ###############################################################################################################
 
 PERGUNTA:

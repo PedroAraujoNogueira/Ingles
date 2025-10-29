@@ -93,27 +93,27 @@ When would you like to go to the movies? - Quando você gostaria de ir ao cinema
 Why don't we get some popcorn? - Por que nós não pegamos/compramos pipoca?
 great idea. - ótima idéia.
 Could you get me a chocolate bar, please? - Você poderia me trazer uma barra de chocolate, por favor?
-Para coisas contáveis usamos "a", "an" ou "some":
+Para coisas contáveis usamos "a", "an", numeros(two, three e etc) ou "some":
 I would like an apple, please. - Eu gostaria de uma maça, por favor.
 I'd like a glass of water, please. - Eu gostaria de um copo de água, por favor.
 I'd like some apples. - Eu gostaria de algumas maçãs. 
-Para coisas incontáveis usamos o some:
+Para coisas incontáveis usamos sempre o some na frase afirmativa:
 Observe que em coisas incontáveis a gente não coloca o substantivo no plural, ou seja, as palavras incontáveis ficam sempre no singular:
 I would like some water, please. - Eu gostaria de água, por favor.
 I would like some popcorn, please. - Eu gostaria de pipoca, por favor.
-Para palavras contáveis na negativa usamos "a", "an", "any": 
+Para palavras contáveis na negativa usamos "a", "an", numeros(two, three e etc) ou "any": 
 You don't have a sandwich. - Você não tem um sanduíche.
 You don't have three sandwiches.
 You don't have any sandwiches. - Você não tem nenhum sanduiche.
-Para palavras incontáveis na negativa usamos o any:
+Para palavras incontáveis na negativa usamos sempre o any:
 You don't have any popcorn. - Você não tem pipoca.
 Para palavras contáveis na interrogativa usamos "a", "an", "any":
 Do you have a sandwich? - Você tem um sanduíche?
 Do we have four sandwiches? - Nós temos quatro sanduíches? 
 Do they have any sanduíches? - Eles tem algum sanduíche?
-Para palavras incontáveis na interrogativa usamos "any":
+Para palavras incontáveis na interrogativa usamos "any" ou "some":
 Do you have any popcorn? - Você tem pipoca?
-Toda vez que quisermos oferecer algo ou pedir algo usaremos "some" mesmo sendo uma pergunta:
+Toda vez que quisermos oferecer algo ou pedir algo usaremos o "some" na pergunta:
 Would you like some coffee? - Você gostaria de café?
 Can I have some coffee, please? - Eu posso beber café, por favor?
 Conversação:
@@ -211,11 +211,41 @@ e tem algumas estações de ônibus também. Tem uma padaria próximo da minha c
 
 LESSON SIXTEEN
 
+Guest - Hospede
+two bedroom apartment - Apartamento de dois quartos.
+studio apartment - Quitinete
+Plates - pratos(louça)
+cutlery - talheres
+paintings - pinturas
+mirror - espelho
+paper - papel
+pen - caneta
+right next - "bem ao lado" ou "logo ao lado"
+fridge - geladeira
+stove - fogão
+sink - pia 
+cupboard - armário
+double bed - cama de casal
+wardrobe - Guarda-roupa
+shelves - estantes ou prateleiras.
+balcony - varanda.
+air conditioning - ar condicionado.
+armchair - poltrona.
+in - Usado para se referir a locais maiores como países, estados, cidades, bairros e etc. Também é usado para se 
+referir a dentro de um local fechado, como o cômodo de uma casa.
+on - usado para se referir a algo que está em uma superfície. Example: There are books on the shelves. 
 Beautiful two-bedroom apartment in Tijuca. - Lindo apartamento de dois quartos na Tijuca.
 Comfortable studio apartment in Copacabana. - Quitinete confortável em copacabana.
 You don't have to bring plates and cutlery from home.
 
-
+Cnversation:
+A: Beautiful two-bedroom apartment in Tijuca. The apartment has a full kitchen, two bedrooms, a big living room and a 
+balcony. There is air conditioning in all the rooms! In the kitchen, there is a fridge, a stove, a sink, a table and a 
+cupboard. You don't have to bring plates and cutlery from home. You can find them in the cupboard. In the main bedroom,
+there's a double bed, a desk and a chair. There are some beautiful paintings and a mirror on the wall. There are some paper
+and pens on the desk. In the guest bedroom there's a double bed, some shelves and a small wardrobe. There are some really 
+good books on the shelves. In the living room, there are two sofas and armchair and a TV. The living room is very pleasant.
+You can relax there for hours. On the balcony, there are two chairs and a small table. That's a great house, right next to the beach!
 
 
 

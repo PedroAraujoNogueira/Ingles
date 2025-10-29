@@ -1,6 +1,7 @@
 AULAS 1, 2 e 3
 I am from Rio de Janeiro - Eu sou do Rio de Janeiro.
-I live in Sao Paulo - Eu moro em São Paulo.
+I am from Sao Paulo. - Eu sou do Rio de Janeiro.
+I live(lêvi) in Sao Paulo - Eu moro em São Paulo.
 Nice to meet you - Prazer em conhecer você.
 this is - Esse é. Ex: Raquel, This is Pedro. Pedro, this is Raquel.
 My friend - meu/minha amigo/amiga. 
